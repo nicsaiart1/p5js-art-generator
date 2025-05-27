@@ -1,0 +1,12 @@
+{
+  "name": "p5js-screensaver",
+  "version": "1.0.0",
+  "description": "Generative p5.js screensaver with WebGL shader",
+  "main": "electron.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^29.0.0"
+  }
+}
